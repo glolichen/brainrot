@@ -8,6 +8,11 @@ The Brainrot Interpreter can only run one file at a time. The first and only arg
 
 You must have python installed.
 
+Run the following command in the terminal to execute a file titled "brainrot.b":
+```
+python brainrot.py brainrot.b
+```
+
 ## Language
 
 ### Phrases

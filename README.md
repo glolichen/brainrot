@@ -1,6 +1,6 @@
 # Brainrot
 
-[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) for Gen Alpha and Philip Han. Just like Brainfuck, Brainrot is Turing-complete, so any computer program can theoretically be written in this glorious language.
+[Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) for Gen Alpha and [@philiphan0109](https://github.com/philiphan0109/). Just like Brainfuck, Brainrot is Turing-complete, so any computer program can theoretically be written in this glorious language.
 
 ## Compiler Usage
 

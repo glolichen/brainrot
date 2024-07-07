@@ -2,7 +2,7 @@
 
 [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) for Gen Alpha and [@philiphan0109](https://github.com/philiphan0109/). Just like Brainfuck, Brainrot is Turing-complete, so any computer program can theoretically be written in this glorious language.
 
-## Compiler Usage
+## Interpreter Usage
 
 The Brainrot Interpreter can only run one file at a time. The first and only argument passed to the interpreter is the name of that file. Any file format is accepted by the compiler, so long as it is a readable text file.
 
